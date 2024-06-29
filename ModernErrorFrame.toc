@@ -1,0 +1,9 @@
+## Interface: 30300
+## Author: Reformed
+## Title: ModernErrorFrame
+## Notes: Improves the error message frame to make it more like modern wow clients
+## X-Category: Interface Enhancements
+## Version: 1
+## Version: 1.0
+
+ModernErrorFrame.lua
